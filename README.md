@@ -24,14 +24,6 @@ This project automates the process of sending emails to students who have fallen
    pip install -r requirements.txt
    ```
 
-## Configuration
-
-1. Copy the `config.example.yml` file to `config.yml`:
-   ```
-   cp config.example.yml config.yml
-   ```
-2. Edit `config.yml` to set your email server details, scoring thresholds, and other configuration options.
-
 ## Usage
 
 Run the main script:
